@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Price of War
-subtitle: Each post also has a subtitle
+subtitle: Some Extra US History
 gh-repo: hargettc2015
 gh-badge: [star, fork, follow]
 tags: [data_science]
