@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Test markdown
+title: The Price of War
 subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
+gh-repo: hargettc2015
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [data_science]
 comments: true
 ---
 
-You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+Here is basically a comparrison between the top US wars with the most casualties, and their death counts for our troups. [Read More](https://medium.com/@hargettc2015/the-price-of-war-6b6e9a57135)
 
 **Here is some bold text**
 
